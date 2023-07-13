@@ -1,0 +1,20 @@
+.blog {
+    font-size: 2vh;
+    color: rgb(14, 67, 130);
+  }
+  
+  
+
+  @media (max-width: 1200px) {
+    .blog {
+      font-size: 15vw;
+    }
+  }
+  
+
+  @media (max-width: 768px) {
+    .blog {
+      font-size: 10vw;
+    }
+  }
+  

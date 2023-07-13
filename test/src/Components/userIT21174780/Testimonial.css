@@ -1,0 +1,13 @@
+.card-text {
+    text-align: left;
+  }
+
+  .rounded-circle{
+    
+    padding: 5px;
+    width: 50px;
+  }
+
+  .row{
+    justify-content: center;
+  }

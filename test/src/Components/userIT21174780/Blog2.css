@@ -1,0 +1,17 @@
+.card {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+  }
+  
+  .card-img-top {
+    flex-shrink: 0;
+    width: 200px;
+    height: auto;
+    margin-right: 20px;
+  }
+  
+  .card-text {
+    text-align: right;
+  }
+  

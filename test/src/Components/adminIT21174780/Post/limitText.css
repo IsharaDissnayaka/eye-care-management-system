@@ -1,0 +1,6 @@
+.limited-text {
+    overflow: hidden;
+    white-space: nowrap;
+    text-overflow: ellipsis;
+    max-width: 100px; /* set the maximum width for text display */
+  }
